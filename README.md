@@ -2,7 +2,7 @@
 
 Welcome to my awesome todo list that i called **My Resolutions**
 
-![my-resolution](https://cloud.githubusercontent.com/assets/5286092/16765391/2e8b2b86-480a-11e6-907e-778eb3caa514.png)
+![screencapture-localhost-3000-1469789460872](https://cloud.githubusercontent.com/assets/5286092/17246252/3cad2f2a-5561-11e6-8d1c-56378dbab185.png)
 
 
 This is a simple todo app to improve my skills about react and meteor
